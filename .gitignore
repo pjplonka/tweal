@@ -15,4 +15,10 @@
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
 
+###< Custom dirs ###
 /.idea
+###< Custom dirs ###
+
+###< Custom files ###
+docker-compose.override.yml
+###< Custom files ###
